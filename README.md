@@ -4,6 +4,7 @@
 <h3> 👩🏽‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 👩🏽‍💻 &nbsp; My interests are Full-Stack Development and ML/AI. I also contribute to open-source projects whenever I get any opportunity.
 - 😄 &nbsp; Pronouns are she/her.
 
 <h3> 💻 &nbsp;Tech Stack</h3>
