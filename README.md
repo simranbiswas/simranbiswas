@@ -5,7 +5,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 👩🏽‍💻 &nbsp; My interests are Full-Stack Development and Distributed Systems.
-- 😄 &nbsp; Pronouns are she/her.
+- 😄 &nbsp; My pronouns are she/her.
 
 <h3> 💻 &nbsp;Tech Stack</h3>
 
