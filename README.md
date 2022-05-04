@@ -4,7 +4,7 @@
 <h3> 👩🏽‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 👩🏽‍💻 &nbsp; My interests are Full-Stack Development and Distributed Systems.
+- 👩🏽‍💻 &nbsp; My interests are Backend Development and Distributed Systems.
 - 😄 &nbsp; My pronouns are she/her.
 
 <h3> 💻 &nbsp;Tech Stack</h3>
