@@ -51,6 +51,6 @@
 
 <p align="center">
 <a href="https://simranbiswas.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-simranbiswas.github.io-blueviolet?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/simran-biswas-2b8137176/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Simran%20Biswas-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/simran-biswas/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Simran%20Biswas-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:biswasasimran@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-biswasasimran@gmail.com-orange?style=flat-square&logo=gmail"></a>
 </p>
